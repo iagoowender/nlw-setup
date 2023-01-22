@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a restrear Habitos!
 
-- [VISITE O PROJETO ONLINE] (https://iagoowender.github.io/nlw-setup/)
+- [VISITE_O_PROJETO_ONLINE] (https://iagoowender.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
