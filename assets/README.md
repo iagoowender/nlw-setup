@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a restrear Habitos.
+O Habits é um app para ajudar a restrear Habitos!
 
 ## 🔖 Layout
 
